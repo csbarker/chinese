@@ -10,6 +10,9 @@
 * [Qiushibaike - Humor](https://www.qiushibaike.com/)
 * [Tencent Animation - Comics](https://ac.qq.com/)
 
+# Games
+* [Fun China World (Coming August 2019)](https://funchinaworld.com/)
+
 # Videos
 * [56.com](https://www.56.com/)
 * [AcFun](http://www.acfun.cn/)
