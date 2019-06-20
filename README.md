@@ -9,6 +9,7 @@
 * [Bookset - Books](https://bookset.me/)
 * [Qiushibaike - Humor](https://www.qiushibaike.com/)
 * [Tencent Animation - Comics](https://ac.qq.com/)
+* [知音漫客网 - The first original animation platform in China - Comics](https://www.zymk.cn/)
 
 # Games
 * [Fun China World (Coming August 2019)](https://funchinaworld.com/)
