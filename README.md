@@ -1,5 +1,6 @@
 # Tools
-* [Qhanzi - Indentify Chinese Characters](https://www.qhanzi.com/)
+* [Yandex OCR - Translate text in images](https://translate.yandex.com/ocr)
+* [Qhanzi - Indentify characters by handwritten input](https://www.qhanzi.com/)
 * [Baidu Translate](https://fanyi.baidu.com/)
 
 # News & Information
