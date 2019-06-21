@@ -1,3 +1,7 @@
+# Tools
+* [Qhanzi - Indentify Chinese Characters](https://www.qhanzi.com/)
+* [Baidu Translate](https://fanyi.baidu.com/)
+
 # News & Information
 * [BBC](https://www.bbc.com/zhongwen/simp/world)
 * [Baidu - Chinese Google](http://www.baidu.com/)
@@ -9,7 +13,7 @@
 * [Bookset - Books](https://bookset.me/)
 * [Qiushibaike - Humor](https://www.qiushibaike.com/)
 * [Tencent Animation - Comics](https://ac.qq.com/)
-* [知音漫客网 - The first original animation platform in China - Comics](https://www.zymk.cn/)
+* [知音漫客网 - Comics](https://www.zymk.cn/)
 
 # Games
 * [Fun China World (Coming August 2019)](https://funchinaworld.com/)
