@@ -12,7 +12,7 @@
 * [Southern Metropolis Daily / 南方都市报](http://www.oeeee.com/)
 
 # Entertainment
-* [Bookset - Books](https://bookset.me/)
+* [MeBook - Books](http://mebook.cc)
 * [Qiushibaike - Humor](https://www.qiushibaike.com/)
 * [Tencent Animation - Comics](https://ac.qq.com/)
 * [知音漫客网 - Comics](https://www.zymk.cn/)
