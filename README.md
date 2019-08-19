@@ -59,3 +59,4 @@
 * https://teachyourselfmandarin.wordpress.com/
 * https://learnchinese.club/
 * https://github.com/Super-Panama-World/Resource-Guide
+* [Check if a site is blocked in China](https://www.comparitech.com/privacy-security-tools/blockedinchina/)
