@@ -43,6 +43,7 @@
 * [Douban - Discuss/track books, movies, music](https://www.douban.com/)
 * [Tianya = Chinese Reddit](http://www.tianya.cn/)
 * [Baidu Zhidao - Chinese Yahoo Answers](https://zhidao.baidu.com/)
+* [知乎 - Another Q&A communnity](https://www.zhihu.com)
 
 # Computers & Programming
 * [CSDN - Professional IT Technology Community](https://www.csdn.net/)
