@@ -54,6 +54,7 @@
 * https://en.wikipedia.org/wiki/Chinese_Internet_slang
 * https://en.wikipedia.org/wiki/Chinese_city_tier_system
 * https://en.wikipedia.org/wiki/Hukou_system
+* https://en.wikipedia.org/wiki/Chinese_honorifics
 
 # Misc Links
 * https://www.reddit.com/r/China/comments/1amoqj/chinese_equivalents_to_these_major_american/
