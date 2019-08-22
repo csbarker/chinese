@@ -9,7 +9,8 @@
 * [Baidu - Chinese Google](http://www.baidu.com/)
 * [Baidu Baike - Chinese Wikipedia](http://baike.baidu.com/)
 * [New York Times](https://cn.nytimes.com/)
-* [Southern Metropolis Daily / 南方都市报](http://www.oeeee.com/)
+* [Southern Metropolis Daily (CN) / 南方都市报](http://www.oeeee.com/)
+* [United Daily News (TW)](https://udn.com)
 
 # Entertainment
 * [MeBook - Books](http://mebook.cc)
