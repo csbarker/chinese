@@ -4,6 +4,7 @@
 * [Convert Chinese Characters to Pinyin](https://www.chineseconverter.com/en/convert/chinese-to-pinyin)
 * [Baidu Translate](https://fanyi.baidu.com/)
 * [Grammar Checker](https://languagetool.org/zh-CN-Hans)
+* [Pinyin Chart](https://chinese.yabla.com/chinese-pinyin-chart.php)
 
 # News & Information
 * [BBC](https://www.bbc.com/zhongwen/simp/world)
