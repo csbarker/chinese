@@ -1,5 +1,6 @@
 # Tools
-* [Yandex OCR - Translate text in images](https://translate.yandex.com/ocr)
+* [Yandex OCR - Translate text in images (char -> english)](https://translate.yandex.com/ocr)
+* [EasyScreen OCR - Retrieve characters from an image](https://easyscreenocr.com/)
 * [Qhanzi - Indentify characters by handwritten input](https://www.qhanzi.com/)
 * [Convert Chinese Characters to Pinyin](https://www.chineseconverter.com/en/convert/chinese-to-pinyin)
 * [Baidu Translate](https://fanyi.baidu.com/)
