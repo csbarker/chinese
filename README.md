@@ -16,7 +16,7 @@
 * [United Daily News (TW)](https://udn.com)
 
 # Entertainment
-* [MeBook - Books](http://mebook.cc)
+* [Aixdzs - Books - Read Online or download .epub](https://www.aixdzs.com/)
 * [Qiushibaike - Humor](https://www.qiushibaike.com/)
 * [Tencent Animation - Comics](https://ac.qq.com/)
 * [知音漫客网 - Comics](https://www.zymk.cn/)
