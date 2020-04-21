@@ -21,8 +21,11 @@
 * [Tencent Animation - Comics](https://ac.qq.com/)
 * [知音漫客网 - Comics](https://www.zymk.cn/)
 
+# Chat
+* [WooTalk - Talk to strangers in chinese](https://wootalk.today/)
+
 # Games
-* [Fun China World (Coming August 2019)](https://funchinaworld.com/)
+* [Fun China World](https://funchinaworld.com/)
 
 # Videos
 * [56.com](https://www.56.com/)
